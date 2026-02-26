@@ -18,9 +18,11 @@
 		"fix:package:normalize": "prettier-package-json --write package.json --use-tabs"
 	},
 	"peerDependencies": {
-		"eslint": "^9.39.2",
+		"@eslint/js": "^10.0.1",
+		"eslint": "^10.0.2",
 		"eslint-plugin-perfectionist": "^5.5.0",
 		"eslint-plugin-prefer-arrow-functions": "^3.9.1",
+		"globals": "^17.3.0",
 		"typescript-eslint": "^8.55.0"
 	},
 	"devDependencies": {
