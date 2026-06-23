@@ -22,8 +22,8 @@
 		"eslint": "^10.5.0",
 		"eslint-plugin-perfectionist": "^5.9.1",
 		"eslint-plugin-prefer-arrow-functions": "^3.9.1",
-		"globals": "^17.6.0",
-		"typescript-eslint": "^8.61.1"
+		"globals": "^17.7.0",
+		"typescript-eslint": "^8.62.0"
 	},
 	"devDependencies": {
 		"prettier-package-json": "^2.8.0",
