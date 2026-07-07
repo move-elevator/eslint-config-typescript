@@ -20,10 +20,10 @@
 	"peerDependencies": {
 		"@eslint/js": "^10.0.1",
 		"eslint": "^10.6.0",
-		"eslint-plugin-perfectionist": "^5.9.1",
+		"eslint-plugin-perfectionist": "^5.10.0",
 		"eslint-plugin-prefer-arrow-functions": "^3.10.1",
 		"globals": "^17.7.0",
-		"typescript-eslint": "^8.62.1"
+		"typescript-eslint": "^8.63.0"
 	},
 	"devDependencies": {
 		"prettier-package-json": "^2.8.0",
