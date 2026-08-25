@@ -21,7 +21,9 @@
 			"matchUpdateTypes": ["minor", "patch"],
 			"groupName": "all non-major dependencies",
 			"groupSlug": "all-minor-patch",
-			"commitMessageTopic": "dependencies"
+			"commitMessageTopic": "dependencies",
+			"automerge": true,
+			"platformAutomerge": true
 		}
 	]
 }
