@@ -10,6 +10,14 @@
 	"commitBodyTable": true,
 	"packageRules": [
 		{
+			"matchManagers": ["github-actions"],
+			"groupName": "all non-major dependencies",
+			"groupSlug": "all-minor-patch",
+			"commitMessageTopic": "chore(ci)",
+			"automerge": true,
+			"platformAutomerge": true
+		},
+		{
 			"matchUpdateTypes": ["major"],
 			"groupName": "all major dependencies",
 			"groupSlug": "all-major",
