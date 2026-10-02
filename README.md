@@ -41,7 +41,7 @@ This configuration extends:
 
 Additional rules:
 
-- `no-undef`: error
+- `no-undef`: error (disabled for `.ts` files — TypeScript resolves identifiers itself)
 - `prefer-arrow-functions/prefer-arrow-functions`: error
 - `quotes`: single quotes required
 - `semi`: no semicolons
